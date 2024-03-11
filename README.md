@@ -52,3 +52,8 @@ Despite the potential benefits of AI chatbots, their design and implementation f
 ---
 
 This README outlines the comprehensive approach to designing and implementing an AI-driven chat system for enhancing student engagement and optimizing business processes within the TUT-ICT Faculty.
+
+## Task Tracking
+
+This task is tracked on Trello: [Link to Trello Card]([paste-the-url-here](https://trello.com/c/QZOrGKG6/7-readme)https://trello.com/c/QZOrGKG6/7-readme)
+
