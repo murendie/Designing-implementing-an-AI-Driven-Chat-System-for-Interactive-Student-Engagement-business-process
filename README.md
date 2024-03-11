@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-In the digital age, educational institutions like the TUT-ICT Faculty face challenges in meeting the evolving needs of students and faculty members while maintaining operational efficiency. Traditional communication methods, such as emails and phone calls, often result in delays in addressing student inquiries and faculty requests. Existing chat systems may lack the sophistication needed to provide accurate and timely responses, leading to user frustration.
+In the digital age, educational institutions like the TUT-ICT Faculty face challenges in meeting the evolving needs of students and faculty members while maintaining operational efficiency. Traditional communication methods, such as emails and phone calls, often result in delays in addressing student inquiries and faculty requests. Existing chat systems may lack the sophistication needed to provide accurate and timely responses, leading to user frustration. 
 
 ## Background
 
