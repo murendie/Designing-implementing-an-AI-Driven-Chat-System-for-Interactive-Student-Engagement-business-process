@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Copy README.md to server
+        uses: murendie/scp-action@master
+        with:
+          HOST_USERNAME: projects_user
+          HOST_PASSWORD: egd_idd_08G!
+          HOST_PORT: 22
+          HOST_IP: 178.62.244.94
+          source: README.md
+          target: /var/www/projects/210156623_208084089
